@@ -1,2 +1,2 @@
 # singlepage_table
-see documentation [here](http://logicscale.in/demo/DynamicTable/)
+see output [here](http://logicscale.in/demo/DynamicTable/)
